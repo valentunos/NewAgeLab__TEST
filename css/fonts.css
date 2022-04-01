@@ -1,0 +1,48 @@
+
+@font-face {
+    font-family: 'Arial';
+    src: url('../fonts/Arial-BoldMT/Arial-BoldMT.eot');
+    src: url('../fonts/Arial-BoldMT/Arial-BoldMT.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Arial-BoldMT/Arial-BoldMT.woff2') format('woff2'),
+    url('../fonts/Arial-BoldMT/Arial-BoldMT.woff') format('woff'),
+    url('../fonts/Arial-BoldMT/Arial-BoldMT.ttf') format('truetype'),
+    url('../fonts/Arial-BoldMT/Arial-BoldMT.svg#Arial-BoldMT') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial';
+    src: url('../fonts/ArialMT/ArialMT.eot');
+    src: url('../fonts/ArialMT/ArialMT.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/ArialMT/ArialMT.woff2') format('woff2'),
+    url('../fonts/ArialMT/ArialMT.woff') format('woff'),
+    url('../fonts/ArialMT/ArialMT.ttf') format('truetype'),
+    url('../fonts/ArialMT/ArialMT.svg#ArialMT') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: local("Roboto"), local("Roboto-Regular"),
+    url('../fonts/Roboto-Regular/roboto-regular.eot') format('embedded-opentype'),
+    url('../fonts/Roboto-Regular/roboto-regular.woff') format('woff'),
+    url('../fonts/Roboto-Regular/roboto-regular.ttf') format('truetype'),
+    url('../fonts/Roboto-Regular/roboto-regular.svg#RobotoRegular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: local("Roboto"), local("Roboto-Bold"),
+    url('../fonts/Roboto-Bold/roboto-bold.eot') format('embedded-opentype'),
+    url('../fonts/Roboto-Bold/roboto-bold.woff') format('woff'),
+    url('../fonts/Roboto-Bold/roboto-bold.ttf') format('truetype'),
+    url('../fonts/Roboto-Bold/roboto-bold.svg#RobotoBold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
